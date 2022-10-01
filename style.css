@@ -28,8 +28,10 @@
     color:rgb(22, 105, 173);
 }
 
-.watermark{
-    width: 35%;
+.image1{
+    width: 75%;
+    border: 2px solid rgb(94, 128, 139);
+    border-radius: 10%;
 }
 
 .borderbox {
@@ -60,7 +62,7 @@ li{
     background-color: rgb(52, 232, 238);
     font-size: large;
     font-family: "Noto Sans KR", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
     color: white;
 }
 
@@ -76,8 +78,22 @@ li{
     background-color: rgb(52, 232, 238);
     font-size: large;
     font-family: "Noto Sans KR", sans-serif;
-    font-weight: 100;
+    font-weight: 500;
     color: white;
+}
+
+.calender_word{
+    margin-top: 13%;
+    width: 18%;
+    border: 2px solid transparent;
+    border-radius: 15px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    font-size: larger;
+    font-family: "Noto Sans KR", sans-serif;
+    color: white;
+    font-weight: 400;
+    background-color: rgb(88, 88, 179);
 }
 
 .following{
@@ -107,11 +123,20 @@ li{
 .captain {
     font-family: "Noto Sans KR", sans-serif;
     font-size: large;
-    margin-bottom: 10%;
+    margin-bottom: 8%;
 }
 
 .name{
     font-size: larger;
+}
+
+.cal{
+    width: 80%;
+    border: 2px solid pink;
+}
+
+.calender{
+    margin-bottom: 12%;
 }
 
 .way{
