@@ -134,6 +134,12 @@ li{
 .cal{
     width: 80%;
     border: 2px solid pink;
+    border-radius: 8px;
+}
+
+.detail_date{
+    font-family: "Noto Sans KR", sans-serif;
+    font-size: medium;
 }
 
 .calender{
