@@ -27,7 +27,7 @@
 
 .line2{
     color:rgb(22, 105, 173);
-    font-size: 33px;
+    font-size: 37px;
 }
 
 .image1{
@@ -130,10 +130,6 @@ li{
     font-family: "Noto Sans KR", sans-serif;
     font-size: large;
     margin-bottom: 8%;
-}
-
-.name{
-    font-size: larger;
 }
 
 .cal{
