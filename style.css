@@ -17,17 +17,18 @@
 
 .train_name{
     font-family: "Jua", sans-serif;
-    font-size: 30px;
     font-weight: 400;
+    word-break: keep-all;
 }
 
 .line1{
     color: rgb(235, 150, 72);
+    font-size: 31px;
 }
 
 .line2{
     color:rgb(22, 105, 173);
-    font-size: 37px;
+    font-size: 28px;
 }
 
 .image1{
@@ -130,6 +131,7 @@ li{
     font-family: "Noto Sans KR", sans-serif;
     font-size: large;
     margin-bottom: 8%;
+    word-break: keep-all;
 }
 
 .cal{
@@ -189,6 +191,11 @@ li{
     margin-bottom: 6%;
     font-size: medium;
     font-family: "Noto Sans KR", sans-serif;
+}
+
+.map iframe {
+    width: 90%;
+    height: 300px;
 }
 
 .fireforce{
